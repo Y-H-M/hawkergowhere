@@ -1,0 +1,1001 @@
+[
+ {
+   "ID": 1,
+   "NAME": "ABC Brickworks Market & Food Centre",
+   "ADDRESS": "Blk 6, Jalan Bukit Merah, S(150006)",
+   "POSTAL": 150006,
+   "LATITUDE": 1.286742264,
+   "LONGITUDE": 103.8082849,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.811954253405!2d103.80558017584755!3d1.2869100617730982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bd6a9fb8e29%3A0x83645244d59aba82!2sABC%20Brickworks%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701751833599!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 2,
+   "NAME": "Adam Road Food Centre",
+   "ADDRESS": "2, Adam Road, S(289876)",
+   "POSTAL": 289876,
+   "LATITUDE": 1.324159853,
+   "LONGITUDE": 103.8141659,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7527680836783!2d103.81153767584745!3d1.324213811655881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a06e12483bf%3A0x6ea52fe268dc6994!2sAdam%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753002469!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 3,
+   "NAME": "Albert Centre Market & Food Centre",
+   "ADDRESS": "Blk 270, Queen Street, S(180270)",
+   "POSTAL": 180270,
+   "LATITUDE": 1.301102016,
+   "LONGITUDE": 103.8541158,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7904379050724!2d103.85136087584753!3d1.3005951117303651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da194419045453%3A0x2b151928632088d0!2sAlbert%20Centre!5e0!3m2!1sen!2ssg!4v1701753011562!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 4,
+   "NAME": "Alexandra Village Food Centre",
+   "ADDRESS": "Blk 120, Bukit Merah Lane, S(150120)",
+   "POSTAL": 150120,
+   "LATITUDE": 1.286305943,
+   "LONGITUDE": 103.8044926,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8128376844397!2d103.80194347584754!3d1.2863450617748555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bcb81a99b75%3A0x6efb88bd7972503f!2sAlexandra%20Village%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701751854368!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 5,
+   "NAME": "Amoy Street Food Centre",
+   "ADDRESS": "National Development Building, Annex B, Telok Ayer Street, S(069111)",
+   "POSTAL": 69111,
+   "LATITUDE": 1.27923121,
+   "LONGITUDE": 103.8466193,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.823622707424!2d103.84679567924172!3d1.279427367411377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19129bf396d5%3A0xc4c74da290ec162f!2sAmoy%20Street%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753023213!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 6,
+   "NAME": "Ayer Rajah Market",
+   "ADDRESS": "Blk 502, West Coast Drive, Singapore 120502",
+   "POSTAL": 120502,
+   "LATITUDE": 1.311889721,
+   "LONGITUDE": 103.7591661,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7725322168685!2d103.75720757584752!3d1.3118748616949132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a93c91d17c9%3A0xc3872202e652157!2sAyer%20Rajah%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701751868499!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 7,
+   "NAME": "Bedok Food Centre",
+   "ADDRESS": "1, Bedok Road, S(469572)",
+   "POSTAL": 469572,
+   "LATITUDE": 1.320347168,
+   "LONGITUDE": 103.9554806,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15955.034770875167!2d103.93797493955077!3d1.320527100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22d6b13450c3%3A0x27ff2b4e37646161!2sBedok%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753073626!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 8,
+   "NAME": "Beo Crescent Market",
+   "ADDRESS": "38A, Beo Crescent, S(169982)",
+   "POSTAL": 169982,
+   "LATITUDE": 1.288830892,
+   "LONGITUDE": 103.8273539,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8091205482815!2d103.82751882858271!3d1.2887206919812573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1978b281dc27%3A0x18eb1dd221a84f08!2sBeo%20Crescent%20Market!5e0!3m2!1sen!2ssg!4v1701753095253!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 9,
+   "NAME": "Berseh Food Centre",
+   "ADDRESS": "166, Jalan Besar, S(208877)",
+   "POSTAL": 208877,
+   "LATITUDE": 1.307344109,
+   "LONGITUDE": 103.8568888,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8091121384377!2d103.8249438758476!3d1.2887260617674372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBerseh%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701751889776!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 10,
+   "NAME": "Blk 1 Jalan Kukoh",
+   "ADDRESS": "Blk 1, Jalan Kukoh, S(161001)",
+   "POSTAL": 161001,
+   "LATITUDE": 1.288252092,
+   "LONGITUDE": 103.8399403,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8099642543834!2d103.83730087584755!3d1.28818186176914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1975e3dc6265%3A0xbe43a983f35ae1c4!2s1%20Jln%20Kukoh%2C%20Block%203%2C%20Singapore%20161001!5e0!3m2!1sen!2ssg!4v1701751896831!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 11,
+   "NAME": "Blk 105 Hougang Ave 1",
+   "ADDRESS": "Blk 105, Hougang Ave 1, S(530105)",
+   "POSTAL": 530105,
+   "LATITUDE": 1.354082739,
+   "LONGITUDE": 103.8901304,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7040242809644!2d103.88736767584737!3d1.354164661560135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17b81edea08f%3A0xc0a79bd596461567!2s105%20Hougang%20Ave%201%2C%20Singapore%20530105!5e0!3m2!1sen!2ssg!4v1701751918097!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 12,
+   "NAME": "Blk 11 Telok Blangah Crescent",
+   "ADDRESS": "Blk 11, Telok Blangah Crescent, S(090011)",
+   "POSTAL": 90011,
+   "LATITUDE": 1.277368132,
+   "LONGITUDE": 103.8186515,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8266756428243!2d103.81606247584756!3d1.2774623618024203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bd900164bff%3A0x5a35aa775383786!2s11%20Telok%20Blangah%20Cres%2C%20Singapore%20090011!5e0!3m2!1sen!2ssg!4v1701751925275!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 13,
+   "NAME": "Blk 112 Jalan Bukit Merah",
+   "ADDRESS": "Blk 112, Jalan Bukit Merah, S(160112)",
+   "POSTAL": 160112,
+   "LATITUDE": 1.280004801,
+   "LONGITUDE": 103.8260133,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8227186788536!2d103.82342947584758!3d1.280008661794529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da197cb585b319%3A0xef9fdb49efe0d336!2s112%20Jalan%20Bukit%20Merah%2C%20Singapore%20160112!5e0!3m2!1sen!2ssg!4v1701751932504!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 14,
+   "NAME": "Blk 115 Bukit Merah View",
+   "ADDRESS": "Blk 115, Bukit Merah View, S(151115)",
+   "POSTAL": 151115,
+   "LATITUDE": 1.285504456,
+   "LONGITUDE": 103.8218233,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.814178663202!2d103.81932287584759!3d1.2854869617775324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da197e04b35a71%3A0xdf452e11bd2984a7!2s115%20Bukit%20Merah%20View%2C%20Singapore%20151115!5e0!3m2!1sen!2ssg!4v1701751939705!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 15,
+   "NAME": "Blk 117 Aljunied Ave 2",
+   "ADDRESS": "Blk 117, Aljunied Ave 2, S(380117)",
+   "POSTAL": 380117,
+   "LATITUDE": 1.320646368,
+   "LONGITUDE": 103.8870241,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.75854112275!2d103.88440927584747!3d1.3206215616672712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1823c1c10c4f%3A0x224365cf338ae7f0!2s117%20Aljunied%20Ave%202%2C%20Singapore%20380117!5e0!3m2!1sen!2ssg!4v1701751946839!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 16,
+   "NAME": "Blk 127 Toa Payoh Lorong 1",
+   "ADDRESS": "Blk 127, Lorong 1 Toa Payoh, S(310127)",
+   "POSTAL": 310127,
+   "LATITUDE": 1.338103515,
+   "LONGITUDE": 103.8447327,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7303997462654!2d103.84214827584742!3d1.3380413616118634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da174281cbdf6d%3A0xae205351bbc9d84f!2s127%20Lor%201%20Toa%20Payoh%2C%20Singapore%20310127!5e0!3m2!1sen!2ssg!4v1701751953917!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 17,
+   "NAME": "Blk 137 Tampines Street 11",
+   "ADDRESS": "Blk 137, Tampines Street 11, S(521137)",
+   "POSTAL": 521137,
+   "LATITUDE": 1.345373474,
+   "LONGITUDE": 103.9446294,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.718257729273!2d103.94218347584741!3d1.3454877615880292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d161665082f%3A0xb01c84db45f8f988!2s137%20Tampines%20St.%2011%2C%20Singapore%20521137!5e0!3m2!1sen!2ssg!4v1701751960941!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 18,
+   "NAME": "Blk 159 Mei Chin Road",
+   "ADDRESS": "Blk 159, Mei Chin Road, S(140159)",
+   "POSTAL": 140159,
+   "LATITUDE": 1.293236244,
+   "LONGITUDE": 103.8029039,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8019791041615!2d103.80030777584759!3d1.2932725617532674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a3446da9fd7%3A0x1cf14e28439a5938!2s159%20Mei%20Chin%20Rd%2C%20Singapore%20140159!5e0!3m2!1sen!2ssg!4v1701751968063!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 19,
+   "NAME": "Blk 16 Bedok South Road",
+   "ADDRESS": "Blk 16, Bedok South Road, S(460016)",
+   "POSTAL": 460016,
+   "LATITUDE": 1.320552219,
+   "LONGITUDE": 103.9355392,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7586701527252!2d103.93294197584743!3d1.3205411616675338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22b665a733d9%3A0x8f672c19f94291fd!2s16%20Bedok%20S%20Rd%2C%20Singapore%20460016!5e0!3m2!1sen!2ssg!4v1701751975121!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 20,
+   "NAME": "Blk 163 Bukit Merah Central",
+   "ADDRESS": "Blk 163, Bukit Merah Central, S(150163)",
+   "POSTAL": 150163,
+   "LATITUDE": 1.283661396,
+   "LONGITUDE": 103.8170727,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.817010198917!2d103.81397587584755!3d1.28367316178316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bd6bea7532b%3A0xf0a121c3350c449b!2s163%20Bukit%20Merah%20Central%2C%20Singapore%20150163!5e0!3m2!1sen!2ssg!4v1701751982328!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 21,
+   "NAME": "Blk 17 Upper Boon Keng Road",
+   "ADDRESS": "Blk 17, Upper Boon Keng Road, S(380017)",
+   "POSTAL": 380017,
+   "LATITUDE": 1.315028415,
+   "LONGITUDE": 103.8716204,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.767465718544!2d103.86914437584747!3d1.3150489616848935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da183251ef3d09%3A0x838caabad9355e42!2s17%20Upper%20Boon%20Keng%20Rd%2C%20Singapore%20380017!5e0!3m2!1sen!2ssg!4v1701752022608!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 22,
+   "NAME": "Blk 20 Ghim Moh Road",
+   "ADDRESS": "Blk 20, Ghim Moh Road, S(270020)",
+   "POSTAL": 270020,
+   "LATITUDE": 1.310996632,
+   "LONGITUDE": 103.7882303,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7737194527017!2d103.78563587584749!3d1.3111299616972598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a688d5dcb53%3A0x58e14a8f47942819!2s20%20Ghim%20Moh%20Rd%2C%20Singapore%20270020!5e0!3m2!1sen!2ssg!4v1701752029731!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 23,
+   "NAME": "Blk 208B New Upper Changi Road",
+   "ADDRESS": "Blk 208B, New Upper Changi Road, S(462208)",
+   "POSTAL": 462208,
+   "LATITUDE": 1.324818166,
+   "LONGITUDE": 103.9305443,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7521877845584!2d103.92810507584751!3d1.3245743616547552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22b36c068a2b%3A0xb355113c14fc1f98!2s208b%20New%20Upper%20Changi%20Rd!5e0!3m2!1sen!2ssg!4v1701752036834!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 24,
+   "NAME": "Blk 210 Toa Payoh Lorong 8",
+   "ADDRESS": "Blk 210, Lorong 8 Toa Payoh, S(310210)",
+   "POSTAL": 310210,
+   "LATITUDE": 1.340261046,
+   "LONGITUDE": 103.8543958,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.726687693868!2d103.85193127584742!3d1.3403222616045731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da176e76d5198f%3A0x904ad65b7001c9aa!2s210%20Lor%208%20Toa%20Payoh%2C%20Singapore%20310210!5e0!3m2!1sen!2ssg!4v1701752043890!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 25,
+   "NAME": "Blk 216 Bedok North Street 1",
+   "ADDRESS": "Blk 216, Bedok North Street 1, S(460216)",
+   "POSTAL": 460216,
+   "LATITUDE": 1.327062742,
+   "LONGITUDE": 103.933218,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7479257109526!2d103.93061577584747!3d1.3272194616463446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d4b6aa6e5c9%3A0x621c5238f9fdcb3d!2s216%20Bedok%20North%20Street%201%2C%20Singapore%20460216!5e0!3m2!1sen!2ssg!4v1701752050963!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 26,
+   "NAME": "Blk 22 Toa Payoh Lorong 7",
+   "ADDRESS": "Blk 22, Lorong 7 Toa Payoh, S(310022)",
+   "POSTAL": 310022,
+   "LATITUDE": 1.335382613,
+   "LONGITUDE": 103.8570037,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.73495607877!2d103.85445207584745!3d1.3352363616208194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da177ab023dca5%3A0xb671ee5981286059!2s22%20Lor%207%20Toa%20Payoh%2C%20Singapore%20310022!5e0!3m2!1sen!2ssg!4v1701753641409!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 27,
+   "NAME": "Blk 226D Ang Mo Kio Ave 1",
+   "ADDRESS": "Blk 226D, Ang Mo Kio Ave 1, S(564226)",
+   "POSTAL": 564226,
+   "LATITUDE": 1.366800962,
+   "LONGITUDE": 103.8391523,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6831332770066!2d103.83660107584737!3d1.366800361519305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16ded309322d%3A0xd781b2acc183d476!2s226D%20Ang%20Mo%20Kio%20Ave%201%2C%20Singapore%20564226!5e0!3m2!1sen!2ssg!4v1701752065097!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 28,
+   "NAME": "Blk 226H Ang Mo Kio Street 22",
+   "ADDRESS": "Blk 226H, Ang Mo Kio Street 22, S(568226)",
+   "POSTAL": 568226,
+   "LATITUDE": 1.367178741,
+   "LONGITUDE": 103.8401577,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6823916819353!2d103.83748297584728!3d1.3672467615178459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16dec41008a5%3A0x9bc4fc9a2b2070e8!2s226H%20Ang%20Mo%20Kio%20Street%2022%2C%20Singapore%20568226!5e0!3m2!1sen!2ssg!4v1701752072261!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 29,
+   "NAME": "Blk 254 Jurong East Street 24",
+   "ADDRESS": "Blk 254, Jurong East Street 24, S(600254)",
+   "POSTAL": 600254,
+   "LATITUDE": 1.343488185,
+   "LONGITUDE": 103.7377384,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.721294977687!2d103.73511397584738!3d1.3436289615939867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1019aad17b33%3A0x93ec9fc7e21b0c8d!2s254%20Jurong%20East%20St%2024%2C%20Singapore%20600254!5e0!3m2!1sen!2ssg!4v1701752079292!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 30,
+   "NAME": "Blk 29 Bendemeer Road",
+   "ADDRESS": "Blk 29, Bendemeer Road, S(330029)",
+   "POSTAL": 330029,
+   "LATITUDE": 1.319216679,
+   "LONGITUDE": 103.8630209,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7605926347865!2d103.86044997584757!3d1.3193426616713235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19d232f3abbd%3A0xe02a93cacc8ac178!2s29%20Bendemeer%20Rd%2C%20Singapore%20330029!5e0!3m2!1sen!2ssg!4v1701752086352!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 31,
+   "NAME": "Blk 320 Shunfu Road",
+   "ADDRESS": "Blk 320, Shunfu Road, S(570320)",
+   "POSTAL": 570320,
+   "LATITUDE": 1.35202557,
+   "LONGITUDE": 103.8369645,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7076077724605!2d103.83454217584735!3d1.3519853615671504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da173ba42b09ef%3A0x138bf0a85cc63080!2s320%20Shunfu%20Rd%2C%20Singapore%20570320!5e0!3m2!1sen!2ssg!4v1701752106260!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 32,
+   "NAME": "Blk 341 Ang Mo Kio Ave 1",
+   "ADDRESS": "Blk 341, Ang Mo Kio Ave 1, S(560341)",
+   "POSTAL": 560341,
+   "LATITUDE": 1.363845169,
+   "LONGITUDE": 103.8480673,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6885330903287!2d103.84557877584739!3d1.3635455615298566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da171e2e89ee7f%3A0x79fd9b403e562d70!2s341%20Ang%20Mo%20Kio%20Ave%201%2C%20Singapore%20560341!5e0!3m2!1sen!2ssg!4v1701752113328!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 33,
+   "NAME": "Blk 347 Jurong East Ave 1",
+   "ADDRESS": "Blk 347, Jurong East Ave 1, S(600347)",
+   "POSTAL": 600347,
+   "LATITUDE": 1.345416983,
+   "LONGITUDE": 103.7317038,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.6885330903287!2d103.84557877584739!3d1.3635455615298566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBlk%20347%20Jurong%20East%20Ave%201!5e0!3m2!1sen!2ssg!4v1701752120425!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 34,
+   "NAME": "Blk 353 Clementi Ave 2",
+   "ADDRESS": "Blk 353, Clementi Ave 2, S(120353)",
+   "POSTAL": 120353,
+   "LATITUDE": 1.314373285,
+   "LONGITUDE": 103.7708055,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7684956196226!2d103.76824607584751!3d1.3144043616869336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a893ddd1291%3A0xdc97f81833891b40!2s353%20Clementi%20Ave%202%2C%20Singapore%20120353!5e0!3m2!1sen!2ssg!4v1701752127444!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 35,
+   "NAME": "Blk 36 Telok Blangah Rise",
+   "ADDRESS": "Blk 36, Telok Blangah Rise, S(090036)",
+   "POSTAL": 90036,
+   "LATITUDE": 1.272607033,
+   "LONGITUDE": 103.8220284,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8342053132496!2d103.8190737758476!3d1.2726029618174497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19602a0e9f33%3A0x6b237f5666782052!2s36%20Telok%20Blangah%20Rise%2C%20Singapore%20090036!5e0!3m2!1sen!2ssg!4v1701752134677!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 36,
+   "NAME": "Blk 37A Teban Gardens Road",
+   "ADDRESS": "Blk 37A, Teban Garden Road, S(601037)",
+   "POSTAL": 601037,
+   "LATITUDE": 1.320831093,
+   "LONGITUDE": 103.7427481,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7580933085605!2d103.7401897758475!3d1.3209005616663962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1aa5b087d835%3A0x6763c522b8f51517!2s37A%20Teban%20Gardens%20Rd%2C%20Singapore%20601037!5e0!3m2!1sen!2ssg!4v1701752141745!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 37,
+   "NAME": "Blk 409 Ang Mo Kio Ave 10",
+   "ADDRESS": "Blk 409, Ang Mo Kio Ave 10, S(560409)",
+   "POSTAL": 560409,
+   "LATITUDE": 1.362654107,
+   "LONGITUDE": 103.8552883,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.689892790497!2d103.85283717584738!3d1.3627247615325102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da171d38d50009%3A0x30b3952da79ca707!2s409%20Ang%20Mo%20Kio%20Ave%2010%2C%20Singapore%20560409!5e0!3m2!1sen!2ssg!4v1701752148819!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 38,
+   "NAME": "Blk 44 Holland Drive",
+   "ADDRESS": "Blk 44, Holland Drive, S(270044)",
+   "POSTAL": 270044,
+   "LATITUDE": 1.3081178,
+   "LONGITUDE": 103.7927738,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7784182534897!2d103.79016317584744!3d1.3081776617065448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a6a003e8249%3A0x72f0e22300055572!2s44%20Holland%20Dr%2C%20Singapore%20270044!5e0!3m2!1sen!2ssg!4v1701752155921!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 39,
+   "NAME": "Blk 448 Clementi Ave 3",
+   "ADDRESS": "Blk 448, Clementi Ave 3, S(120448)",
+   "POSTAL": 120448,
+   "LATITUDE": 1.313319693,
+   "LONGITUDE": 103.7645172,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7702395152164!2d103.76191507584747!3d1.3133121616903718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a8e0f3e2df7%3A0x2d43681c56c18dfc!2s448%20Clementi%20Ave%203%2C%20448%2C%20Singapore%20120448!5e0!3m2!1sen!2ssg!4v1701752162912!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 40,
+   "NAME": "Blk 453A Ang Mo Kio Ave 10",
+   "ADDRESS": "Blk 453A, Ang Mo Kio Ave 10, S(561453)",
+   "POSTAL": 561453,
+   "LATITUDE": 1.368247789,
+   "LONGITUDE": 103.8563616,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6806633449196!2d103.85374307584739!3d1.368286561514481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16e3532ded6d%3A0xa21fe53b81b965a2!2s453A%20Ang%20Mo%20Kio%20Ave%2010%2C%20Singapore%20561453!5e0!3m2!1sen!2ssg!4v1701752169952!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 41,
+   "NAME": "Blk 49 Sims Place",
+   "ADDRESS": "Blk 49, Sims Place, S(380049)",
+   "POSTAL": 380049,
+   "LATITUDE": 1.317035024,
+   "LONGITUDE": 103.8793099,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7642511862355!2d103.87675437584741!3d1.3170588616785384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da182ffe5ba6f7%3A0xa1f853b0e3ba405e!2s49%20Sims%20Pl%2C%20Singapore%20380049!5e0!3m2!1sen!2ssg!4v1701752209029!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 42,
+   "NAME": "Blk 4A Eunos Crescent",
+   "ADDRESS": "Blk 4A, Eunos Crescent, S(402004)",
+   "POSTAL": 402004,
+   "LATITUDE": 1.32033126,
+   "LONGITUDE": 103.9042565,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.759087199622!2d103.90158317584735!3d1.320281261668347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1804c01cd301%3A0x7dc0700add447048!2s4A%20Eunos%20Cres%2C%20Singapore%20402004!5e0!3m2!1sen!2ssg!4v1701752216100!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 43,
+   "NAME": "Blk 4A Jalan Batu",
+   "ADDRESS": "Blk 4A, Jalan Batu, S(432004)",
+   "POSTAL": 432004,
+   "LATITUDE": 1.302360348,
+   "LONGITUDE": 103.8839095,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7879377488266!2d103.88130847584758!3d1.3021759617254116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da184422edfff3%3A0xb8c573b4b83a667b!2sBlk%204A%20Jalan%20Batu%20Hawker%20Centre!5e0!3m2!1sen!2ssg!4v1701752223208!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 44,
+   "NAME": "Blk 505 Jurong West Street 52",
+   "ADDRESS": "Blk 505, Jurong West Street 52, S(640505)",
+   "POSTAL": 640505,
+   "LATITUDE": 1.349657291,
+   "LONGITUDE": 103.7184437,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7112707904107!2d103.71593727584738!3d1.3497540615743284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fdcbecbe919%3A0x922afb226a9c12cc!2s505%20Jurong%20West%20Street%2052%2C%20Singapore%20640505!5e0!3m2!1sen!2ssg!4v1701752230316!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 45,
+   "NAME": "Blk 50A Marine Terrace",
+   "ADDRESS": "Blk 50A, Marine Terrace, S(441050)",
+   "POSTAL": 441050,
+   "LATITUDE": 1.305729736,
+   "LONGITUDE": 103.915737,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.782351933395!2d103.9131158758476!3d1.305700961714346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da229fc7ab0727%3A0x3ab02a0ac7031223!2s50A%20Marine%20Terrace%2C%20Singapore%20441050!5e0!3m2!1sen!2ssg!4v1701752237436!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 46,
+   "NAME": "Blk 51 Old Airport Road",
+   "ADDRESS": "Blk 51, Old Airport Road, S(390051)",
+   "POSTAL": 390051,
+   "LATITUDE": 1.308109821,
+   "LONGITUDE": 103.8857317,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.778323341498!2d103.88327557584755!3d1.3082373617063667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da183f4e439d49%3A0xbc466acfa3372135!2s51%20Old%20Airport%20Rd%2C%20Singapore%20390051!5e0!3m2!1sen!2ssg!4v1701752244494!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 47,
+   "NAME": "Blk 511 Bedok North Street 3",
+   "ADDRESS": "Blk 511, Bedok North Street 3, S(460511)",
+   "POSTAL": 460511,
+   "LATITUDE": 1.333219933,
+   "LONGITUDE": 103.9305815,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7374752479827!2d103.92711497584746!3d1.3336829616257744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d4f2104499d%3A0x26568f8b5696f44c!2s511%20Bedok%20North%20Street%203%2C%20Singapore%20460511!5e0!3m2!1sen!2ssg!4v1701752251568!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 48,
+   "NAME": "Blk 527 Ang Mo Kio Ave 10",
+   "ADDRESS": "Blk 527, Ang Mo Kio Ave 10, S(560527)",
+   "POSTAL": 560527,
+   "LATITUDE": 1.372772093,
+   "LONGITUDE": 103.854458,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6730801266963!2d103.85193127584728!3d1.3728394614996957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16e5658e6451%3A0xe29f08cd1a12e13!2s527%20Ang%20Mo%20Kio%20Ave%2010%2C%20Singapore%20560527!5e0!3m2!1sen!2ssg!4v1701752258809!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 49,
+   "NAME": "Blk 538 Bedok North Street 3",
+   "ADDRESS": "Blk 538, Bedok North Street 3, S(460538)",
+   "POSTAL": 460538,
+   "LATITUDE": 1.332067277,
+   "LONGITUDE": 103.9246213,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.740495708035!2d103.92229617584746!3d1.3318180616317223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d51ea325dbb%3A0x76c679d5427fa581!2s538%20Bedok%20North%20Street%203%2C%20Singapore%20460538!5e0!3m2!1sen!2ssg!4v1701752265964!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 50,
+   "NAME": "Blk 58 New Upper Changi Road",
+   "ADDRESS": "Blk 58, New Upper Changi Road, S(461058)",
+   "POSTAL": 461058,
+   "LATITUDE": 1.324200873,
+   "LONGITUDE": 103.9411253,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.753146307623!2d103.93887967584739!3d1.323978761656639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22cb0ee4322d%3A0xc5a5943b441e942d!2s58%20New%20Upper%20Changi%20Rd%2C%20Singapore%20461058!5e0!3m2!1sen!2ssg!4v1701752273165!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 51,
+   "NAME": "Blk 6 Tanjong Pagar Plaza",
+   "ADDRESS": "Blk 6, Tanjong Pagar Plaza, S(081006)",
+   "POSTAL": 81006,
+   "LATITUDE": 1.276614648,
+   "LONGITUDE": 103.843167,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8278590391665!2d103.84056657584759!3d1.276699861804785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196ce922dab1%3A0x3f7d19634b08eed5!2s6%20Tanjong%20Pagar%20Plz%2C%20Singapore%20081006!5e0!3m2!1sen!2ssg!4v1701752280325!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 52,
+   "NAME": "Blk 628 Ang Mo Kio Ave 4",
+   "ADDRESS": "Blk 628, Ang Mo Kio Ave 4, S(560628)",
+   "POSTAL": 560628,
+   "LATITUDE": 1.380987617,
+   "LONGITUDE": 103.8406281,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.65945635057!2d103.83816227584732!3d1.3809813614731634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16c0e631d78f%3A0x1965e80a5432d0da!2s628%20Ang%20Mo%20Kio%20Ave%204%2C%20Singapore%20560628!5e0!3m2!1sen!2ssg!4v1701752332807!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 53,
+   "NAME": "Blk 630 Bedok Reservoir Road",
+   "ADDRESS": "Blk 630, Bedok Reservoir Road, S(470630)",
+   "POSTAL": 470630,
+   "LATITUDE": 1.332772792,
+   "LONGITUDE": 103.9141908,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7385378872987!2d103.91156107584752!3d1.333027161627871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17fd81a07a93%3A0xb682e2d4eac13dd!2s630%20Bedok%20Reservoir%20Rd%2C%20Singapore%20470630!5e0!3m2!1sen!2ssg!4v1701752339805!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 54,
+   "NAME": "Blk 69 Geylang Bahru",
+   "ADDRESS": "Blk 69, Geylang Bahru, S(330069)",
+   "POSTAL": 330069,
+   "LATITUDE": 1.32146311,
+   "LONGITUDE": 103.870005,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7571362101476!2d103.86751357584744!3d1.3214966616645076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da182c9cf7cb3d%3A0xb5748a3023d5317d!2s69%20Geylang%20Bahru%2C%20Singapore%20330069!5e0!3m2!1sen!2ssg!4v1701752346882!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 55,
+   "NAME": "Blk 7 Empress Road",
+   "ADDRESS": "Blk 7, Empress Road, S(260007)",
+   "POSTAL": 260007,
+   "LATITUDE": 1.316245744,
+   "LONGITUDE": 103.8056364,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7653140171033!2d103.8031902758475!3d1.3163946616806441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a11eab402d7%3A0xf3e08a78b29ce42e!2s7%20Empress%20Rd%2C%20Singapore%20260007!5e0!3m2!1sen!2ssg!4v1701752353973!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 56,
+   "NAME": "Blk 724 Ang Mo Kio Ave 6",
+   "ADDRESS": "Blk 724, Ang Mo Kio Ave 6, S(560724)",
+   "POSTAL": 560724,
+   "LATITUDE": 1.372172585,
+   "LONGITUDE": 103.8465103,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6736252771975!2d103.84412437584733!3d1.37251266150076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16e7c6a0f229%3A0x3ee5b970a7256c7f!2s724%20Ang%20Mo%20Kio%20Ave%208%2C%20%2301-12%2C%20Singapore%20560724!5e0!3m2!1sen!2ssg!4v1701752360962!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 57,
+   "NAME": "Blk 726 Clementi West Street 2",
+   "ADDRESS": "Blk 726, Clementi West Street 2, S(120726)",
+   "POSTAL": 120726,
+   "LATITUDE": 1.303782033,
+   "LONGITUDE": 103.7642645,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7853818738245!2d103.76169117584755!3d1.3037900617203397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1af20392a403%3A0x7c7c188ec228c442!2s726%20Clementi%20West%20Street%202%2C%20Singapore%20120726!5e0!3m2!1sen!2ssg!4v1701752368023!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 58,
+   "NAME": "Blk 74 Toa Payoh Lorong 4",
+   "ADDRESS": "Blk 74, Lorong 4 Toa Payoh, S(310074)",
+   "POSTAL": 310074,
+   "LATITUDE": 1.334550749,
+   "LONGITUDE": 103.8520035,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.736054987764!2d103.84943267588527!3d1.334558961622898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1765c0889bb7%3A0x232aaca1619b2504!2sToa%20Payoh%20Lorong%204%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753777854!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 59,
+   "NAME": "Blk 79 Telok Blangah Drive",
+   "ADDRESS": "Blk 79, Telok Blangah Drive, S(100079)",
+   "POSTAL": 100079,
+   "LATITUDE": 1.273355994,
+   "LONGITUDE": 103.8076181,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8330907057457!2d103.8050315758476!3d1.2733234618152274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bc3044719a1%3A0x81bfc74cae19f6c9!2s79%20Telok%20Blangah%20Dr%2C%20Singapore%20100079!5e0!3m2!1sen!2ssg!4v1701752382386!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 60,
+   "NAME": "Blk 84 Marine Parade Central",
+   "ADDRESS": "Blk 84, Marine Parade Central, S(440084)",
+   "POSTAL": 440084,
+   "LATITUDE": 1.30228521,
+   "LONGITUDE": 103.9062887,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7876076156113!2d103.90373607584748!3d1.302384561724744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da18717a58a2c7%3A0x879302cdd4e2982!2sMarine%20Parade%20Central%20Market%20and%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753157636!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 61,
+   "NAME": "Blk 85 Bedok North Street 4",
+   "ADDRESS": "Blk 85, Bedok North Street 4, S(460085)",
+   "POSTAL": 460085,
+   "LATITUDE": 1.332004824,
+   "LONGITUDE": 103.9387684,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7414484722813!2d103.9367810758474!3d1.3312292616335926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d363e647431%3A0x3e8ef192b5a15f55!2s85%20Bedok%20North%20Street%204%2C%20Singapore%20460085!5e0!3m2!1sen!2ssg!4v1701752396482!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 62,
+   "NAME": "Blk 85 Redhill Lane",
+   "ADDRESS": "Blk 85, Redhill Lane, S(150085)",
+   "POSTAL": 150085,
+   "LATITUDE": 1.287307515,
+   "LONGITUDE": 103.8183112,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.811175105154!2d103.81570017584752!3d1.2874081617715425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bd4fb7c032d%3A0x706027a9ff673c07!2s85%20Redhill%20Ln%2C%20Singapore%20150085!5e0!3m2!1sen!2ssg!4v1701752403511!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 63,
+   "NAME": "Blk 89 Circuit Road",
+   "ADDRESS": "Blk 89, Circuit Road, S(370089)",
+   "POSTAL": 370089,
+   "LATITUDE": 1.323579714,
+   "LONGITUDE": 103.8854388,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.753662727099!2d103.88279997584748!3d1.3236577616576508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1826d34c1261%3A0xe38a368d1faebe6d!2s89%20Circuit%20Rd%2C%20Singapore%20370089!5e0!3m2!1sen!2ssg!4v1701752410615!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 64,
+   "NAME": "Blk 90 Whampoa Drive",
+   "ADDRESS": "Blk 90, Whampoa Drive, S(320090)",
+   "POSTAL": 320090,
+   "LATITUDE": 1.323064938,
+   "LONGITUDE": 103.8549962,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.754605312068!2d103.85244257584748!3d1.3230716616595108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19d9c0763995%3A0xf43abb6f70c51ed5!2s90%20Whampoa%20Dr%2C%20Singapore%20320090!5e0!3m2!1sen!2ssg!4v1701752417788!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 65,
+   "NAME": "Blk 93 Toa Payoh Lorong 4",
+   "ADDRESS": "Blk 93, Lorong 4 Toa Payoh, S(310093)",
+   "POSTAL": 310093,
+   "LATITUDE": 1.338474696,
+   "LONGITUDE": 103.8495134,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7296281229465!2d103.84704097584738!3d1.3385158116103495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da176926a0a075%3A0xbd145c3344e39362!2sToa%20Payoh%20Lorong%204%20Blk%2093%20Market%20and%20Hawker%20Centre!5e0!3m2!1sen!2ssg!4v1701753174921!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 66,
+   "NAME": "Blks 13/14 Haig Road",
+   "ADDRESS": "Blk 13/14, Haig Road, S(430013)",
+   "POSTAL": 430013,
+   "LATITUDE": 1.315107521,
+   "LONGITUDE": 103.8955879,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7977.533676730948!2d103.89060557267125!3d1.3154414580017906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da181716120239%3A0x12f976f927dc4370!2sHaig%20Road%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753199729!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 67,
+   "NAME": "Blks 160/162 Ang Mo Kio Ave 4",
+   "ADDRESS": "Blk 160/162, Ang Mo Kio Ave 4, S(560160)",
+   "POSTAL": 560160,
+   "LATITUDE": 1.374282625,
+   "LONGITUDE": 103.8389772,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.67082625179!2d103.83625467584734!3d1.3741897614953091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16c4a720c165%3A0xf228872bc00d97d0!2sMayflower%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753224751!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 68,
+   "NAME": "Blks 1A/ 2A/ 3A Commonwealth Drive",
+   "ADDRESS": "Blk 1A/ 2A/ 3A, Commonwealth Drive, S(141001)",
+   "POSTAL": 141001,
+   "LATITUDE": 1.299730716,
+   "LONGITUDE": 103.7978355,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.790121372341!2d103.79546677584756!3d1.3007953617297474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a361eb1469f%3A0x785812a2807f2d4e!2sTanglin%20Halt%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753142896!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 69,
+   "NAME": "Blks 20/21 Marsiling Lane",
+   "ADDRESS": "Blk 20/21, Marsiling Lane, S(730020)",
+   "POSTAL": 730020,
+   "LATITUDE": 1.443394443,
+   "LONGITUDE": 103.7769671,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7977.10446139795!2d103.76812356977541!3d1.4434601000000273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1301924cbca5%3A0xd2206ee6cd36f873!2sMarsiling%20Lane%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753256294!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 70,
+   "NAME": "Blks 221 A/B Boon Lay Place",
+   "ADDRESS": "Blk 221A/B, Boon Lay Place, S(641221)",
+   "POSTAL": 641221,
+   "LATITUDE": 1.345224066,
+   "LONGITUDE": 103.7128007,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7170421779624!2d103.71014477584738!3d1.3462309615856434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fe9de128add%3A0x1a588ffd7decc191!2sBoon%20Lay%20Place%20Market%20and%20Food%20Village!5e0!3m2!1sen!2ssg!4v1701753265454!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 71,
+   "NAME": "Blks 22A/B Havelock Road",
+   "ADDRESS": "Blk 22A/B, Havelock Road, S(161022)",
+   "POSTAL": 161022,
+   "LATITUDE": 1.287970517,
+   "LONGITUDE": 103.8296234,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7977.433511963456!2d103.69598051268142!3d1.3464058851174032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19788d5d6cef%3A0x9c40b62212074442!2sHavelock%20Road%20Cooked%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753285370!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 72,
+   "NAME": "Blks 79/79A Circuit Road",
+   "ADDRESS": "Blk 79/79A, Circuit Road, S(370079)",
+   "POSTAL": 370079,
+   "LATITUDE": 1.326597067,
+   "LONGITUDE": 103.8850523,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7496277893097!2d103.88252467584746!3d1.3261637616496984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da174c3c992e4f%3A0x56152103b1fdb306!2sCircuit%20Road%20Hawker%20Centre!5e0!3m2!1sen!2ssg!4v1701753300172!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 73,
+   "NAME": "Boon Lay Place Market and Food Village",
+   "ADDRESS": "Blk 221A/B, Boon Lay Place, Singapore 641221/642221",
+   "POSTAL": 642221,
+   "LATITUDE": 1.345223163,
+   "LONGITUDE": 103.7127998,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.717830923476!2d103.71049227584746!3d1.3457487615871944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fe9de128add%3A0x1a588ffd7decc191!2sBoon%20Lay%20Place%20Market%20and%20Food%20Village!5e0!3m2!1sen!2ssg!4v1701752480853!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 74,
+   "NAME": "Bukit Panjang Hawker Centre",
+   "ADDRESS": "2 Bukit Panjang Ring Road, Singapore 679947",
+   "POSTAL": 679947,
+   "LATITUDE": 1.377600535,
+   "LONGITUDE": 103.7724896,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7977.329962814621!2d103.76654954177323!3d1.3776852521008751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11a720d54273%3A0xb8b7f8f612231f14!2sBukit%20Panjang%20Hawker%20Centre%20and%20Market!5e0!3m2!1sen!2ssg!4v1701753344225!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 75,
+   "NAME": "Bukit Timah Market",
+   "ADDRESS": "51, Upper Bukit Timah Road, S(588215)",
+   "POSTAL": 588215,
+   "LATITUDE": 1.339452429,
+   "LONGITUDE": 103.7760073,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7282570020893!2d103.77337597584746!3d1.3393584616076653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da108a1e060fc1%3A0x69d17c2ce13247e5!2sBukit%20Timah%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753358311!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 76,
+   "NAME": "Changi Village Blk 2 and 3",
+   "ADDRESS": "Blk 2/3, Changi Village Road, Singapore 500002/500003",
+   "POSTAL": 500003,
+   "LATITUDE": 1.389151721,
+   "LONGITUDE": 103.9882457,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6454586149584!2d103.98512422584731!3d1.3892970614459588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3c168577e7ab%3A0x2b98769e7a9be57c!2sChangi%20Village%20Hawker%20Centre!5e0!3m2!1sen!2ssg!4v1701753373735!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 77,
+   "NAME": "Chinatown Market",
+   "ADDRESS": "Blk 335, Smith Street, S(050335)",
+   "POSTAL": 50335,
+   "LATITUDE": 1.282274961,
+   "LONGITUDE": 103.8432385,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.40811215899!2d103.8422011887984!3d1.2841768312130721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19733ae783e3%3A0x8ea8f9d5c1d81c0e!2sChinatown%20Street%20Market!5e0!3m2!1sen!2ssg!4v1701753382853!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 78,
+   "NAME": "Chomp Chomp Food Centre",
+   "ADDRESS": "20, Kensington Park Road, S(557269)",
+   "POSTAL": 557269,
+   "LATITUDE": 1.364232525,
+   "LONGITUDE": 103.866527,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6873891026457!2d103.86383637584736!3d1.3642357615276146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16ffdda342bb%3A0xc3448e97075e75a4!2sChomp%20Chomp%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752515875!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 79,
+   "NAME": "Chong Pang Market & Food Centre",
+   "ADDRESS": "Blk 104/105, Yishun Ring Road, S(760104)",
+   "POSTAL": 760104,
+   "LATITUDE": 1.431447752,
+   "LONGITUDE": 103.8285377,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.572786341246!2d103.82574547584723!3d1.4316938613054893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da147a379df893%3A0x296f77bc647a87a!2sChong%20Pang%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752522843!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 80,
+   "NAME": "Ci Yuan Hawker Centre",
+   "ADDRESS": "51 Hougang Avenue 9, Singapore 538776",
+   "POSTAL": 538776,
+   "LATITUDE": 1.375428967,
+   "LONGITUDE": 103.882978,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6693298336218!2d103.8829261716274!3d1.375085535691779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1645af5f8bd7%3A0xc4ae4bcb9442f6bd!2sCi%20Yuan%20Hawker%20Centre!5e0!3m2!1sen!2ssg!4v1701753392859!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 81,
+   "NAME": "Circuit Road Blk 79/79A",
+   "ADDRESS": "Blk 79/79A, Circuit Road, Singapore 370079/371079",
+   "POSTAL": 371079,
+   "LATITUDE": 1.326449922,
+   "LONGITUDE": 103.8850435,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7497077248267!2d103.88250027584743!3d1.3261141616498489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da174c3c992e4f%3A0x56152103b1fdb306!2sCircuit%20Road%20Hawker%20Centre!5e0!3m2!1sen!2ssg!4v1701753410110!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 82,
+   "NAME": "Commonwealth Crescent Market",
+   "ADDRESS": "31, Commonwealth Crescent, S(149644)",
+   "POSTAL": 149644,
+   "LATITUDE": 1.306900132,
+   "LONGITUDE": 103.8003673,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7803633920525!2d103.79780807584753!3d1.3069535617104067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a3faefab18d%3A0x6fffdc293172115!2sCommonwealth%20Crescent%20Market%20and%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753420999!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 83,
+   "NAME": "Commonwealth Drive Food Centre",
+   "ADDRESS": "Blk 1A/ 2A/ 3A, Commonwealth Drive, Singapore 140001/140002/140003",
+   "POSTAL": 140003,
+   "LATITUDE": 1.299713305,
+   "LONGITUDE": 103.7978755,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.791295857291!2d103.79471797570096!3d1.300052185196254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a409bf1156f%3A0x1a71a43847956eeb!2sFood%20More%20%40%20115B%20Commonwealth!5e0!3m2!1sen!2ssg!4v1701753458624!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 84,
+   "NAME": "Dunman Food Centre",
+   "ADDRESS": "271, Onan Road, S(424768)",
+   "POSTAL": 424768,
+   "LATITUDE": 1.309417888,
+   "LONGITUDE": 103.9018254,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.776409393075!2d103.89925577584751!3d1.3094406617025798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1812889a158d%3A0xb1918b165ae78e42!2sDunman%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752558060!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 85,
+   "NAME": "East Coast Lagoon Food Village",
+   "ADDRESS": "1220, East Coast Parkway, S(468960)",
+   "POSTAL": 468960,
+   "LATITUDE": 1.307261066,
+   "LONGITUDE": 103.9347997,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.780392457593!2d103.93238447584751!3d1.306935261710462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da18764013f43b%3A0x6cfef20f595a57b0!2sEast%20Coast%20Lagoon%20Food%20Village!5e0!3m2!1sen!2ssg!4v1701752565172!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 86,
+   "NAME": "Geylang Serai Market",
+   "ADDRESS": "Geylang Serai, S(402001)",
+   "POSTAL": 402001,
+   "LATITUDE": 1.316678856,
+   "LONGITUDE": 103.8981027,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7647714674754!2d103.89570177584748!3d1.3167337616795707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1810a1928cf5%3A0xe32ae7206bb3ada7!2sGeylang%20Serai%20Market%20and%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752572273!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 87,
+   "NAME": "Golden Mile Food Centre",
+   "ADDRESS": "505, Beach Road, S(199583)",
+   "POSTAL": 199583,
+   "LATITUDE": 1.303141515,
+   "LONGITUDE": 103.8638774,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7890807785216!2d103.85907322584751!3d1.3014534617276785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19b475d380d3%3A0xad13be080524de16!2sGolden%20Mile%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753469899!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 88,
+   "NAME": "Havelock Road Cooked Food Centre",
+   "ADDRESS": "Blk 22A/B, Havelock Road, Singapore 161022/162022",
+   "POSTAL": 162022,
+   "LATITUDE": 1.28797544,
+   "LONGITUDE": 103.8296268,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8105995839696!2d103.82695847584755!3d1.2877759617704028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19788d5d6cef%3A0x9c40b62212074442!2sHavelock%20Road%20Cooked%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752586424!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 89,
+   "NAME": "Hawker Centre @ Our Tampines Hub",
+   "ADDRESS": "1 Tampines Walk, Singapore 528523",
+   "POSTAL": 528523,
+   "LATITUDE": 1.353862118,
+   "LONGITUDE": 103.9397262,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7062334648144!2d103.9370666758474!3d1.352821561564463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d12833dd081%3A0xe7b675c233b94b0d!2sHawker%20Centre%20%40%20Our%20Tampines%20Hub!5e0!3m2!1sen!2ssg!4v1701752593519!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 90,
+   "NAME": "Holland Village Market & Food Centre",
+   "ADDRESS": "1, Lorong Mambong, S(277700)",
+   "POSTAL": 277700,
+   "LATITUDE": 1.311072974,
+   "LONGITUDE": 103.7948764,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7735865555373!2d103.79503617391217!3d1.3112133655689753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a6ba513cf19%3A0x30b156dec2e85a48!2sHolland%20Village%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753481575!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 91,
+   "NAME": "Hong Lim Market & Food Centre",
+   "ADDRESS": "Blk 531A, Upper Cross Street, S(051531)",
+   "POSTAL": 51531,
+   "LATITUDE": 1.285299077,
+   "LONGITUDE": 103.8458238,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8143142583526!2d103.84325227584749!3d1.2854001617777862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190b6bb30247%3A0x45e079b9cc6c1a2b!2sHong%20Lim%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753495938!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 92,
+   "NAME": "Jurong West Hawker Centre",
+   "ADDRESS": "Blk 50, Jurong West St 61, Singapore 648202",
+   "POSTAL": 648202,
+   "LATITUDE": 1.341259706,
+   "LONGITUDE": 103.6974043,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7252575961274!2d103.6946410758474!3d1.3411999616017791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0f912b9d8b65%3A0x46701166b2ef25a3!2sJurong%20West%20Hawker%20Centre%20(JW50%20Hawker%20Heritage)!5e0!3m2!1sen!2ssg!4v1701753522192!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 93,
+   "NAME": "Kallang Estate Market",
+   "ADDRESS": "17, Old Airport Road, S(397972)",
+   "POSTAL": 397972,
+   "LATITUDE": 1.307343984,
+   "LONGITUDE": 103.8840177,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.779595469737!2d103.88156237584744!3d1.3074369617088848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da18475e3c57e5%3A0xec4c73c699b2470a!2sKallang%20Estate%20Market!5e0!3m2!1sen!2ssg!4v1701752621774!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 94,
+   "NAME": "Kampung Admiralty Hawker Centre",
+   "ADDRESS": "Blk 676, Woodlands Drive 71, Singapore 730676",
+   "POSTAL": 730676,
+   "LATITUDE": 1.439932832,
+   "LONGITUDE": 103.8006964,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.558503887316!2d103.7980765758471!3d1.4398794612780272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da13756f878049%3A0xd520d7a644f61464!2sKampung%20Admiralty%20Hawker%20Centre!5e0!3m2!1sen!2ssg!4v1701752628805!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 95,
+   "NAME": "Kovan Market & Food Centre",
+   "ADDRESS": "Blk 209, Hougang Street 21, S(530209)",
+   "POSTAL": 530209,
+   "LATITUDE": 1.359083841,
+   "LONGITUDE": 103.8860554,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.695891974872!2d103.8835200758474!3d1.3590973615442319!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17b6a7975bf1%3A0xb0e2f2756be2dcd9!2sKovan%20209%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752635948!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 96,
+   "NAME": "Maxwell Food Centre",
+   "ADDRESS": "1, Kadayanallur Street, S(069184)",
+   "POSTAL": 69184,
+   "LATITUDE": 1.280331427,
+   "LONGITUDE": 103.8447472,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.82220924738!2d103.84476700872553!3d1.2803361122487829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d4d2ce4b1%3A0xce7f195d585390aa!2sMaxwell%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753540831!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 97,
+   "NAME": "Newton Food Centre",
+   "ADDRESS": "500, Clemenceau Ave North, S(229495)",
+   "POSTAL": 229495,
+   "LATITUDE": 1.311892405,
+   "LONGITUDE": 103.8395628,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7723420116167!2d103.83699927584752!3d1.3119941616945374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19ebfc0b8c7b%3A0xd484e5a893032ac9!2sNewton%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752650174!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 98,
+   "NAME": "North Bridge Road Market & Food Centre",
+   "ADDRESS": "861, North Bridge Road, S(198783)",
+   "POSTAL": 198783,
+   "LATITUDE": 1.305634337,
+   "LONGITUDE": 103.8639093,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.781860074253!2d103.8637309!3d1.3060109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19b4359db787%3A0x6d436354c1c1b984!2sNorth%20Bridge%20Road%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753553576!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 99,
+   "NAME": "Pasir Panjang Food Centre",
+   "ADDRESS": "121, Pasir Panjang Road, S(118543)",
+   "POSTAL": 118543,
+   "LATITUDE": 1.275917974,
+   "LONGITUDE": 103.7914109,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8289672985998!2d103.7886802758476!3d1.2759853618069954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bbbed2e767f%3A0xad9207ba4ac53000!2sPasir%20Panjang%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752664305!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 100,
+   "NAME": "Pasir Ris Central Hawker Centre",
+   "ADDRESS": "Blk 110, Pasir Ris Central, Singapore 519641",
+   "POSTAL": 519641,
+   "LATITUDE": 1.37343414,
+   "LONGITUDE": 103.951543,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.671848317857!2d103.95147150278878!3d1.3735776045682588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3db04f448ed5%3A0x927a10f00a544b80!2sPasir%20Ris%20Central%20Hawker%20Centre!5e0!3m2!1sen!2ssg!4v1701753574514!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 101,
+   "NAME": "Pek Kio Market & Food Centre",
+   "ADDRESS": "Blk 41A, Cambridge Road, S(211041)",
+   "POSTAL": 211041,
+   "LATITUDE": 1.31613128,
+   "LONGITUDE": 103.8502329,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.765585639413!2d103.84764637584748!3d1.3162248616811802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c35e80c029%3A0x8c25bf68added926!2sPek%20Kio%20Market%20%26%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752678439!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 102,
+   "NAME": "People's Park Food Centre",
+   "ADDRESS": "Blk 32, New Market Road, S(050032)",
+   "POSTAL": 50032,
+   "LATITUDE": 1.284869802,
+   "LONGITUDE": 103.8425077,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8149429770083!2d103.84255561280713!3d1.2849976166541917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19748ff61b01%3A0x4eb1a271b1dde2aa!2sPeople&#39;s%20Park%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753588246!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 103,
+   "NAME": "Redhill Market",
+   "ADDRESS": "Blk 79, Redhill Lane, Singapore 150079",
+   "POSTAL": 150079,
+   "LATITUDE": 1.287858103,
+   "LONGITUDE": 103.8184026,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8109170172183!2d103.81565407584756!3d1.2875731117710378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bd519f2e03f%3A0x5f6dae2f45ea9ce0!2sRedhill%20Market!5e0!3m2!1sen!2ssg!4v1701753599841!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 104,
+   "NAME": "Sembawang Hill Food Centre",
+   "ADDRESS": "590, Upper Thomson Road, S(574419)",
+   "POSTAL": 574419,
+   "LATITUDE": 1.372319493,
+   "LONGITUDE": 103.8290181,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6739905288155!2d103.82643257584736!3d1.372293661501469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16d1eac6511f%3A0x982fc356ec21c71a!2sSembawang%20Hills%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701753609769!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 105,
+   "NAME": "Serangoon Garden Market",
+   "ADDRESS": "49A, Serangoon Garden Way, S(555945)",
+   "POSTAL": 555945,
+   "LATITUDE": 1.362736808,
+   "LONGITUDE": 103.8661622,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6890023191368!2d103.86399747584738!3d1.3632623615307717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da170019b99c7b%3A0x7e6bf3da09c557a3!2sSerangoon%20Garden%20Market!5e0!3m2!1sen!2ssg!4v1701752706568!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 106,
+   "NAME": "Taman Jurong Market & Food Centre",
+   "ADDRESS": "3, Yung Sheng Road, S(618499)",
+   "POSTAL": 618499,
+   "LATITUDE": 1.334721066,
+   "LONGITUDE": 103.7215838,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.735881606787!2d103.71897747584744!3d1.3346658616226432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0ffb0cdba61d%3A0x171e06ad6d6e0b39!2sTaman%20Jurong%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752713689!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 107,
+   "NAME": "Tanglin Halt Market",
+   "ADDRESS": "48A, Tanglin Halt Road, S(148813)",
+   "POSTAL": 148813,
+   "LATITUDE": 1.300544075,
+   "LONGITUDE": 103.797738,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.790680586679!2d103.7951011758476!3d1.300441561730845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1b8d710874d7%3A0x4171a8d06fba1708!2sTanglin%20Halt%20Market!5e0!3m2!1sen!2ssg!4v1701752720850!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 108,
+   "NAME": "Tekka Market",
+   "ADDRESS": "Blk 665, Buffalo Road, S(210665)",
+   "POSTAL": 210665,
+   "LATITUDE": 1.30617773,
+   "LONGITUDE": 103.85061,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7817578408994!2d103.84830652584749!3d1.3060753117131678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19f1dd1e4843%3A0xe759a7414a9bcedc!2sTekka%20Centre!5e0!3m2!1sen!2ssg!4v1701753624834!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 109,
+   "NAME": "Tiong Bahru Market",
+   "ADDRESS": "30, Seng Poh Road, S(168898)",
+   "POSTAL": 168898,
+   "LATITUDE": 1.284951059,
+   "LONGITUDE": 103.8326697,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8123821013655!2d103.8273865258476!3d1.2866364617739499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1974b505e413%3A0x6aacaf31c4f0d88d!2sTiong%20Bahru%20Market!5e0!3m2!1sen!2ssg!4v1701753633980!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 110,
+   "NAME": "Yishun Park Hawker Centre",
+   "ADDRESS": "Blk 51, Yishun Avenue 11, Singapore 768867",
+   "POSTAL": 768867,
+   "LATITUDE": 1.425017638,
+   "LONGITUDE": 103.8447476,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5843641410465!2d103.8421457758472!3d1.4250238613277804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da146a0063c911%3A0x5836e7d4c0fbd7aa!2sYishun%20Park%20Hawker%20Centre!5e0!3m2!1sen!2ssg!4v1701752741852!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ },
+ {
+   "ID": 111,
+   "NAME": "Zion Riverside Food Centre",
+   "ADDRESS": "70, Zion Road, S(247792)",
+   "POSTAL": 247792,
+   "LATITUDE": 1.292311148,
+   "LONGITUDE": 103.8309734,
+   "DIV": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8032355791947!2d103.82875527584753!3d1.292472861755759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da198316afcefd%3A0xcec50f05d136005!2sZion%20Riverside%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1701752749021!5m2!1sen!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+ }
+]
