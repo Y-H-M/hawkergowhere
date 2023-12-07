@@ -7,12 +7,12 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Run JS code for each page
-    if (window.location.pathname.startsWith('/home.html')) {
+    if (window.location.pathname.includes('/home.html')) {
         searchLocation();
-    } else if (window.location.pathname.startsWith('/search.html')) {
+    } else if (window.location.pathname.includes('/search.html')) {
         processSearch();
         saveItem();
-    } else if (window.location.pathname.startsWith('/saved.html')) {
+    } else if (window.location.pathname.includes('/saved.html')) {
         loadSave();
         saveItem();
     }
@@ -100,7 +100,7 @@ const processSearch = () => {
         const long = urlParams.get('long');
         processLocationSearch(lat, long);
     } else {
-        window.location.assign('/home.html');
+        window.location.assign('/hawkergowhere/home.html');
     }
 };
 
