@@ -94,10 +94,12 @@ const processSearch = () => {
     const urlParams = new URLSearchParams(window.location.search);
     if (urlParams.has('keyword')) {
         const keyword = urlParams.get('keyword');
+        console.log(keyword);
         processKeywordSearch(keyword);
     } else if (urlParams.has('lat') && urlParams.has('long')) {
         const lat = urlParams.get('lat');
         const long = urlParams.get('long');
+        console.log(lat, long);
         processLocationSearch(lat, long);
     } else {
         window.location.assign('/hawkergowhere/home.html');
